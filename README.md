@@ -22,4 +22,4 @@ The dataset used in this project is shared publicly via [Kaggle](https://www.kag
 
 1. Explanatory Data Analysis (EDA)
 2. K-Means Clustering
-3. A/B Testing through Hypothesis Testing
+3. A/B Testing through Hypothesis Testing.
